@@ -1,1 +1,1 @@
-DALL-E interface with flasj
+DALL-E interface with flask
