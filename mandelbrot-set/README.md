@@ -2,5 +2,8 @@ The Mandelbrot set consists of all of those (complex) c-values for which the cor
 
 
 
-https://github.com/sanjay-906/Learnings/assets/99668976/4c6691ca-92bd-4e62-9069-cc364f86d536
+
+
+https://github.com/sanjay-906/Learnings/assets/99668976/610e8bbb-5a58-4fb8-be07-22568ed19f28
+
 
