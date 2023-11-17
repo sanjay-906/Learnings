@@ -1,4 +1,5 @@
 # Covid-19-data-Dashboard
 Tableau learning attempt
 
-![Tableau](https://raw.githubusercontent.com/sanjay-906/Covid-19-data-Dashboard/main/Dashboard%201.png)
+
+![Dashboard](https://github.com/sanjay-906/Learnings/assets/99668976/dfd8c77d-594c-4811-bd2e-3f5a8394215e)
