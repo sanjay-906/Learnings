@@ -6,3 +6,8 @@ The Game of Life, or just Life, is a one-person game that was created by the Eng
 - Any live cell with two or three live neighbours lives on to the next generation.
 - Any live cell with more than three live neighbours dies, as if by overpopulation.
 - Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
+
+
+
+https://github.com/sanjay-906/Learnings/assets/99668976/3a3bc7c4-4153-4fa6-95e8-8f31a94f310f
+
