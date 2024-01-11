@@ -25,6 +25,6 @@ One normally assumes that the parameters σ, ρ, and β are positive. Lorenz use
 
 
 
-https://github.com/sanjay-906/Learnings/assets/99668976/0df1be12-6e42-4500-a394-f8a3bd7ced06
 
-source: Veritasium
+https://github.com/sanjay-906/Learnings/assets/99668976/8922f759-f7e4-4c87-81d5-31f110ed07c6
+
